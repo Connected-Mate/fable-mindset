@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Cognitive Night installer — copies skills and agents into your Claude Code user directory.
+# Fable Mindset installer — copies skills and agents into your Claude Code user directory.
 # Override the destination with CLAUDE_DIR=/path ./install.sh
 
 DEST="${CLAUDE_DIR:-$HOME/.claude}"

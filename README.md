@@ -1,10 +1,10 @@
-# Cognitive Night
+# Fable Mindset
 
 > **Fable is not here — use the same logic as Fable, for free.**
 
 Claude Fable 5 was available for a window. The model goes away; the way it works doesn't have to.
 
-Cognitive Night is Fable 5's working discipline — how it decomposes hard tasks, verifies its own work, orchestrates subagents, and runs autonomous loops — written down **by Fable 5 itself** as portable skill files. Load them into Claude Code (or paste them into any capable model's system prompt) and your daily model inherits the habits, if not the raw horsepower.
+Fable Mindset is Fable 5's working discipline — how it decomposes hard tasks, verifies its own work, orchestrates subagents, and runs autonomous loops — written down **by Fable 5 itself** as portable skill files. Load them into Claude Code (or paste them into any capable model's system prompt) and your daily model inherits the habits, if not the raw horsepower.
 
 No API keys. No dependencies. No telemetry. Just Markdown.
 
@@ -24,8 +24,8 @@ The three skills cross-reference each other: *fable-mindset* is how one agent th
 ### Claude Code
 
 ```bash
-git clone https://github.com/Connected-Mate/cognitive-night.git
-cd cognitive-night
+git clone https://github.com/Connected-Mate/fable-mindset.git
+cd fable-mindset
 ./install.sh
 ```
 
